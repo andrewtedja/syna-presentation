@@ -62,3 +62,6 @@ Render every slide at 1280×720. Check a portrait phone viewport for uniform let
 
 ## User-provided skills and experience
 - Skills & Experience: Rafael — low-level programming, DSA; Andrew — DBMS, backend engineering; Ahsan — Frontend Development, design and project management. These replace the former experience placeholders.
+
+## Final slide order
+- Team Introduction is slide 12, immediately before Thank You (13). Keep it there per user preference. Update numbering and notes together when reordering. Use semantic selectors for slide-specific CSS rather than ordinal selectors.
