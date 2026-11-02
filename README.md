@@ -21,3 +21,7 @@ Open syna-presentation.pdf for the 13-page widescreen static export with selecta
 Open index.html normally for presenting. Only previous/next and slide count appear briefly on pointer movement, then hide. Notes, Edit, Save and the top-left editor toggle are hidden; N/E editor shortcuts are disabled. Arrow keys, Space, swipe, wheel, F fullscreen and R replay remain available.
 
 For authoring, open index.html?edit (for example index.html?edit#2). This restores Notes, Edit, Save and N/E shortcuts. The companion PDF already contains no controls.
+
+
+## Cover product demo
+The cover uses a light schematic map inside a slim Android mock. Click Map/Radar to switch views, or Find Rafael to open Radar. All readings are illustrative. The PDF defaults to the Map state.

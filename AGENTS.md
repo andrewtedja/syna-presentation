@@ -65,3 +65,11 @@ Render every slide at 1280×720. Check a portrait phone viewport for uniform let
 
 ## Final slide order
 - Team Introduction is slide 12, immediately before Thank You (13). Keep it there per user preference. Update numbering and notes together when reordering. Use semantic selectors for slide-specific CSS rather than ordinal selectors.
+
+## Modern cover experiment
+- Cover has a slim Android shell with light schematic map, selected-friend sheet, Map/Radar tabs and precise outer spatial rings/ticks. Keep tabs interactive and Find Rafael switching to radar.
+- Cover map is an illustrative interface, not actual geography or a working Android implementation. Preserve all wording and other slides. Motion must be subtle and respect reduced motion; PDF defaults to Map.
+
+- Cover radar ambience should be visibly animated: ten-second sweep, soft trailing light, subtle expanding rings, and pulsing connection dots. Preserve the new mock UI. Respect reduced-motion and static PDF states.
+
+- Latest cover subtitle: Offline P2P Messaging & Friend Finder (remove Secure). Ambient sweep must stay behind the Android mock; never obscure the UI.
