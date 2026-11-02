@@ -8,7 +8,7 @@
 
 ## 2. Team
 
-25s | Team LGTM: Rafael owns Networking & Security: Nearby Connections API integration, P2P discovery, device handshake, public-key encryption and background GPS sensor streams. Andrew owns Backend & Business Logic: Room schema architecture, profile/contact CRUD, message persistence, QR key management and distance/bearing mathematical logic. Ahsan owns Frontend & UI/UX: Jetpack Compose screens, QR scanner UI, chat interface, offline MapLibre integration and animated compass radar UI. These are assigned responsibilities, not claims of completed work or prior experience. Experience placeholders remain to be filled. Generic avatars are illustrations, not real likenesses.
+25s | Team LGTM: Rafael owns Networking & Security: Nearby Connections API integration, P2P discovery, device handshake, public-key encryption and background GPS sensor streams. Andrew owns Backend & Business Logic: Room schema architecture, profile/contact CRUD, message persistence, QR key management and distance/bearing mathematical logic. Ahsan owns Frontend & UI/UX: Jetpack Compose screens, QR scanner UI, chat interface, offline MapLibre integration and animated compass radar UI. The responsibility bullets are assigned work. User-provided skills and experience: Rafael — low-level programming and DSA; Andrew — DBMS and backend engineering; Ahsan — Frontend Development, design and project management. Generic avatars are illustrations, not real likenesses.
 
 ## 3. Motivation
 

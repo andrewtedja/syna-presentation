@@ -59,3 +59,6 @@ Render every slide at 1280×720. Check a portrait phone viewport for uniform let
 ## Classroom default
 - Default HTML must hide Notes/Edit/Save, the hover editor toggle, notes panel and editor hints. Disable N/E editor shortcuts in the default view. Keep navigation/count auto-hide, F fullscreen and R replay.
 - Editing and notes remain available only with ?edit in the URL. Preserve this opt-in mode for authoring.
+
+## User-provided skills and experience
+- Skills & Experience: Rafael — low-level programming, DSA; Andrew — DBMS, backend engineering; Ahsan — Frontend Development, design and project management. These replace the former experience placeholders.
