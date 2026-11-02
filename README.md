@@ -15,3 +15,9 @@ Replace the three skills/experience placeholders and confirm member names. The a
 
 ## PDF download
 Open syna-presentation.pdf for the 13-page widescreen static export with selectable text. The HTML retains animations. For a fresh export after edits, use your browser Print command, enable background graphics, and save as PDF; the print stylesheet creates one slide per page.
+
+
+## Classroom mode (default)
+Open index.html normally for presenting. Only previous/next and slide count appear briefly on pointer movement, then hide. Notes, Edit, Save and the top-left editor toggle are hidden; N/E editor shortcuts are disabled. Arrow keys, Space, swipe, wheel, F fullscreen and R replay remain available.
+
+For authoring, open index.html?edit (for example index.html?edit#2). This restores Notes, Edit, Save and N/E shortcuts. The companion PDF already contains no controls.

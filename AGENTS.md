@@ -55,3 +55,7 @@ Render every slide at 1280×720. Check a portrait phone viewport for uniform let
 - Closing slide: large Thank You, with Stay connected. Find each other. Even offline. as a small secondary tagline, plus LGTM Team.
 
 - Comparison slide: Syna column uses light Ocean Mist gradient (#F5FAFE to #E5F1F7), Deep Slate text and Ocean Blue header; other columns remain dark for contrast.
+
+## Classroom default
+- Default HTML must hide Notes/Edit/Save, the hover editor toggle, notes panel and editor hints. Disable N/E editor shortcuts in the default view. Keep navigation/count auto-hide, F fullscreen and R replay.
+- Editing and notes remain available only with ?edit in the URL. Preserve this opt-in mode for authoring.
