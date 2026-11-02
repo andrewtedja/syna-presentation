@@ -73,3 +73,11 @@ Render every slide at 1280×720. Check a portrait phone viewport for uniform let
 - Cover radar ambience should be visibly animated: ten-second sweep, soft trailing light, subtle expanding rings, and pulsing connection dots. Preserve the new mock UI. Respect reduced-motion and static PDF states.
 
 - Latest cover subtitle: Offline P2P Messaging & Friend Finder (remove Secure). Ambient sweep must stay behind the Android mock; never obscure the UI.
+
+## Simplified cover radar
+- Latest cover: only two thin outer rings and one gentle rotating sweep. No ticks, echo rings or pulsing contact dots outside the phone.
+- Selected cover friend is Andrew, with A avatar and Find Andrew CTA. Other slides retain their existing names.
+
+- Latest radar polish: two thin rings, sharper narrow leading edge with restrained trailing blue light, one revolution every 5 seconds. No extra dots, ticks or echo rings.
+
+- Latest cover radar supersedes earlier ring/speed instructions: three concentric circles, one revolution every 10 seconds, broad soft blue trailing gradient. Keep the Android mock and Andrew unchanged.
