@@ -16,7 +16,7 @@
 
 ## 4. Chat
 
-25s | This is a concept chat playback: Rafael shares a meeting point and his location. Messages travel over direct nearby connectivity with authenticated encrypted sessions. Room stores history and permits deletion. The interface shows connection and delivery states. New messages require devices within supported nearby range. These states are illustrative, not measured behavior.
+25s | This is a concept chat playback: Rafael shares a meeting point and his location. Messages travel over direct nearby connectivity with authenticated encrypted sessions. Room stores history and permits deletion. The interface shows connection and delivery states. New messages require devices within supported nearby range. These states are illustrative, not measured behavior. The four visible steps explain QR friend onboarding, public-key exchange and local storage, direct encrypted messaging, and Room chat history. Only public keys are exchanged; private keys remain on device. Public-key exchange is part of identity setup, and the authenticated encryption design still needs implementation validation.
 
 ## 5. Offline map
 

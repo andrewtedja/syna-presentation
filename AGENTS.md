@@ -81,3 +81,7 @@ Render every slide at 1280×720. Check a portrait phone viewport for uniform let
 - Latest radar polish: two thin rings, sharper narrow leading edge with restrained trailing blue light, one revolution every 5 seconds. No extra dots, ticks or echo rings.
 
 - Latest cover radar supersedes earlier ring/speed instructions: three concentric circles, one revolution every 10 seconds, broad soft blue trailing gradient. Keep the Android mock and Andrew unchanged.
+
+## Feature explanation update
+- Chat explicitly covers QR friend onboarding, public-key exchange/local storage, encrypted direct messaging and Room history. Never imply that private keys are shared.
+- Map explicitly covers sharing GPS coordinates, last-shared locations as map markers, distance and self heading.
